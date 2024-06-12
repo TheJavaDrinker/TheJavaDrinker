@@ -2,7 +2,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=750&size=30&duration=5000&pause=3000&color=1890ff&center=true&vCenter=true&width=550&lines=Hello!+This+is+TheJavaDrinker!" alt="Typing SVG" /></a>
 </div>
 
-### Visitors: <img align="center" height="30px" src="https://profile-counter.glitch.me/TheJavaDrinker/count.svg" />
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=TheJavaDrinker&bg_color=222222&color=ffffff&line=1890ff&point=ffffff&area=true&hide_border=false" />
 <p align="center">
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=TheJavaDrinker&theme=darkhub&no-frame=true&column=4&margin-w=36&margin-h=12" />
@@ -20,4 +19,4 @@
 </section>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=superdragonstar1226&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=TheJavaDrinker&icon=0&color=0)](https://visitcount.itsvg.in)
